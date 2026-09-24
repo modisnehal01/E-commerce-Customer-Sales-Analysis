@@ -1,0 +1,12 @@
+check,rows_affected
+duplicate_order_ids,1
+duplicate_line_ids,3
+missing_customer_region,12
+invalid_order_dates,1
+invalid_order_status,0
+invalid_item_quantity,1
+invalid_item_price_or_cost,1
+invalid_discounts,1
+unmatched_product_ids,1
+unmatched_order_ids,1
+unmatched_customer_ids,0

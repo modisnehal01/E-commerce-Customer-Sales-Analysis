@@ -1,0 +1,13 @@
+product_id,product_name,category,list_price_gbp,unit_cost_gbp
+1,Laptop,Electronics,850,610
+2,Monitor,Electronics,250,175
+3,Tablet,Electronics,380,270
+4,Headphones,Electronics,115,62
+5,Desk,Home Office,280,175
+6,Office Chair,Home Office,195,112
+7,Desk Lamp,Home Office,55,26
+8,Webcam,Accessories,70,33
+9,Keyboard,Accessories,85,43
+10,Mouse,Accessories,35,15
+11,Laptop Stand,Accessories,48,22
+12,Notebook Set,Stationery,18,7
